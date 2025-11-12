@@ -1,0 +1,17 @@
+# Ignorar dependencias locales
+node_modules/
+npm-debug.log
+
+# Ignorar archivos temporales
+*.txt
+*.log
+
+# Ignorar binarios grandes o innecesarios
+*.exe
+*.zip
+*.mat
+*.asv
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
